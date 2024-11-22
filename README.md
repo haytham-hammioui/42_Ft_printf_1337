@@ -28,7 +28,7 @@ The `ft_printf` project is the second project in the 42 network curriculum. It i
 2. **Compile the Library**
    Navigate to the `ft_printf` directory and run `make`. This will compile the library and produce a `libftprintf.a` file.
    ```sh
-   cd libft
+   cd ft_printf
    make
    ```
 
