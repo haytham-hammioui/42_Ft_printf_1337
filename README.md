@@ -43,7 +43,7 @@ To use `ft_printf` in your C projects:
 
 2. Compile your project along with `libftprintf.a`. For example:
    ```sh
-   gcc -o your_program libftprintf.a
+   gcc -o your_program your_source_files libftprintf.a
    ```
 
 ## Contributing
