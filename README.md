@@ -1,7 +1,7 @@
 <h1 align="center">42_FT_PRINTF_1337</h1>
 <p align="center">
   <a href="https://github.com/haytham-hammioui/42_Ft_printf_1337">
-    <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfe.png" alt="42 Badge">
+    <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/born2berootm.png" alt="42 Badge">
   </a>
 </p>
 
